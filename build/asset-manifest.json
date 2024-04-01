@@ -7,8 +7,5 @@
     "main.f9791adb.css.map": "/calculadora/build/static/css/main.f9791adb.css.map",
     "main.6878c92d.js.map": "/calculadora/build/static/js/main.6878c92d.js.map"
   },
-  "entrypoints": [
-    "static/css/main.f9791adb.css",
-    "static/js/main.6878c92d.js"
-  ]
+  "entrypoints": ["static/css/main.f9791adb.css", "static/js/main.6878c92d.js"]
 }
